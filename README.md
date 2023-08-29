@@ -43,6 +43,10 @@ O comando para acionar o robô é `!nf`. Isso pesquisará notícias de tecnologi
 ### Contribuir 🎉
 As contribuições são bem-vindas! Se você gostaria de contribuir para o desenvolvimento deste robô, por favor faça um fork do repositório e suba una solicitação de pull com suas alterações.
 
+### ❤️ Apoio, suporte.
+
+Se por acaso você adora este projeto, deixe uma estrela no repo. Isso vai me manter motivado. Deixe-me saber sua opinião com a resposta. Clique [Diego Melo](https://tifodao.com/#contact).
+
 <div align="center">
 <a href="https://links.tifodao.com">
  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/66981750/262346028-b6bf186e-5554-4736-a192-956402c5b0db.jpg" width="15%" height="15%">
